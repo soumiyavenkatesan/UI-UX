@@ -1,0 +1,140 @@
+<div className="AndroidLarge1" style={{width: 360, height: 800, position: 'relative', background: 'white', borderRadius: 30, overflow: 'hidden'}}>
+  <div className="BasilAddOutline" style={{width: 42, height: 42, left: 160, top: 746, position: 'absolute'}}>
+    <div className="Vector" style={{width: 17.48, height: 17.48, left: 12.26, top: 12.26, position: 'absolute', background: '#111111'}}></div>
+    <div className="Vector" style={{width: 29.67, height: 29.72, left: 6.17, top: 6.14, position: 'absolute', background: '#111111'}}></div>
+  </div>
+  <div className="MaterialSymbolsSearch" style={{width: 42, height: 42, padding: 5.25, left: 90, top: 748, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Vector" style={{width: 31.50, height: 31.50, background: '#111111'}}></div>
+  </div>
+  <div className="MingcuteBatteryFill" style={{width: 24, paddingTop: 6, paddingBottom: 0.19, paddingLeft: 2, paddingRight: 2, left: 304, top: 8, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Group" style={{flex: '1 1 0', alignSelf: 'stretch', position: 'relative'}}>
+      <div className="Vector" style={{width: 0.84, height: 0.67, left: 10.08, top: 17.14, position: 'absolute'}}></div>
+      <div className="Vector" style={{width: 20, height: 12, left: 0, top: 0, position: 'absolute', background: '#111111'}}></div>
+    </div>
+  </div>
+  <img className="Image1" style={{width: 177.33, height: 70, left: 0, top: 14, position: 'absolute'}} src="https://via.placeholder.com/177x70" />
+  <div className="Send" style={{width: 35, height: 35, padding: 2.92, left: 311, top: 38, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Icon" style={{width: 29.17, height: 29.17, border: '4px #1E1E1E solid'}}></div>
+  </div>
+  <div className="00Pm" style={{left: 31, top: 7, position: 'absolute', color: 'black', fontSize: 13, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>8:00 pm</div>
+  <div className="Heart" style={{width: 35, height: 35, paddingTop: 4.37, paddingBottom: 4.04, paddingLeft: 2.26, paddingRight: 2.26, left: 254, top: 42, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Icon" style={{width: 30.48, height: 26.59, border: '4px #1E1E1E solid'}}></div>
+  </div>
+  <img className="Image2" style={{width: 2438, height: 1817, left: 988, top: 739, position: 'absolute'}} src="https://via.placeholder.com/2438x1817" />
+  <img className="Image3" style={{width: 2414, height: 1859, left: 1838, top: 354, position: 'absolute'}} src="https://via.placeholder.com/2414x1859" />
+  <img className="Ellipse23" style={{width: 42, height: 42, left: 302, top: 748, position: 'absolute', borderRadius: 9999}} src="https://via.placeholder.com/42x42" />
+  <div className="HealthiconsNetwork5gOutline" style={{width: 24, height: 24, paddingTop: 2.05, paddingBottom: 2, paddingLeft: 5, paddingRight: 5, left: 275, top: 3, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Group" style={{width: 14, height: 19.95, position: 'relative'}}>
+      <div className="Vector" style={{width: 2.76, height: 9.90, left: 11.24, top: 0, position: 'absolute', background: '#111111'}}></div>
+      <div className="Vector" style={{width: 8, height: 5.66, left: 3, top: 2.12, position: 'absolute', background: '#111111'}}></div>
+      <div className="Vector" style={{width: 2.76, height: 9.90, left: 0, top: 0, position: 'absolute', background: '#111111'}}></div>
+      <div className="Vector" style={{width: 2, height: 2, left: 6, top: 3.95, position: 'absolute', background: '#111111'}}></div>
+      <div className="Vector" style={{width: 14, height: 9.50, left: 0, top: 10.45, position: 'absolute', background: '#111111'}}></div>
+      <div className="Vector" style={{width: 9.51, height: 5.52, left: 2, top: 12.43, position: 'absolute', background: '#111111'}}></div>
+    </div>
+  </div>
+  <div className="IcRoundHome" style={{width: 42, height: 42, paddingTop: 5.85, paddingBottom: 7, paddingLeft: 4.90, paddingRight: 4.90, left: 21, top: 746, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Vector" style={{width: 32.20, height: 29.15, background: '#111111'}}></div>
+  </div>
+  <img className="Image6" style={{width: 30, height: 30.68, left: 237, top: 753, position: 'absolute'}} src="https://via.placeholder.com/30x31" />
+  <div className="Frame4" style={{height: 534, left: 1, top: 199, position: 'absolute', flexDirection: 'column', justifyContent: 'flex-end', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Frame3" style={{alignSelf: 'stretch', height: 1581, flexDirection: 'column', justifyContent: 'flex-end', alignItems: 'center', display: 'inline-flex'}}>
+      <div className="AndroidLarge3" style={{width: 360, height: 1718, position: 'relative', background: 'white', flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start', display: 'flex'}}>
+        <img className="Ellipse5" style={{width: 40, height: 40, borderRadius: 9999}} src="https://via.placeholder.com/40x40" />
+        <div className="SathyaSai" style={{color: 'black', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>_sathya_sai</div>
+        <div className="MoreVertical" style={{width: 30, height: 30, paddingTop: 5, paddingBottom: 5, justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+          <div className="Icon" style={{width: 2.50, height: 20, border: '4px #1E1E1E solid'}}></div>
+        </div>
+        <img className="Image4" style={{width: 319, height: 322}} src="https://via.placeholder.com/319x322" />
+        <img className="Image3" style={{width: 2414, height: 1859}} src="https://via.placeholder.com/2414x1859" />
+        <div className="Heart" style={{width: 35, height: 35, paddingTop: 4.37, paddingBottom: 4.04, paddingLeft: 2.26, paddingRight: 2.26, justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+          <div className="Icon" style={{width: 30.48, height: 26.59, border: '4px #2A2A2A solid'}}></div>
+        </div>
+        <div className="MessageCircle" style={{width: 35, height: 35, paddingTop: 4.37, paddingBottom: 4.37, paddingLeft: 4.38, paddingRight: 4.37, justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+          <div className="Icon" style={{width: 26.25, height: 26.25, border: '4px #454444 solid'}}></div>
+        </div>
+        <div className="Send" style={{width: 35, height: 35, padding: 2.92, justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+          <div className="Icon" style={{width: 29.17, height: 29.17, border: '4px #484848 solid'}}></div>
+        </div>
+        <div className="Bookmark" style={{width: 35, height: 35, paddingLeft: 7.29, paddingRight: 7.29, paddingTop: 4.38, paddingBottom: 4.38, justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+          <div className="Icon" style={{width: 20.42, height: 26.25, border: '4px #484747 solid'}}></div>
+        </div>
+        <img className="Ellipse6" style={{width: 30, height: 30, borderRadius: 9999}} src="https://via.placeholder.com/30x30" />
+        <img className="Ellipse7" style={{width: 30, height: 30, borderRadius: 9999, border: '1px black solid'}} src="https://via.placeholder.com/30x30" />
+        <img className="Ellipse8" style={{width: 30, height: 30, borderRadius: 9999}} src="https://via.placeholder.com/30x30" />
+        <div className="LikedByPriya15AndOthers" style={{width: 224, height: 34, color: 'black', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>liked by  _priya_15 and others</div>
+        <div className="HeavenIsUnderOurFeetAsWellAsOverOurHeads" style={{width: 331, color: 'black', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>heaven is under our feet as well as over our heads.....</div>
+        <div className="Nature" style={{color: '#24C6D0', fontSize: 14, fontFamily: 'Inter', fontWeight: '600', wordWrap: 'break-word'}}>#nature</div>
+        <div className="VeiwAll50Comments" style={{color: 'black', fontSize: 14, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>veiw all 50 comments</div>
+        <img className="Ellipse14" style={{width: 40, height: 40, borderRadius: 9999}} src="https://via.placeholder.com/40x40" />
+        <div className="MoreVertical" style={{width: 30, height: 30, paddingTop: 5, paddingBottom: 5, justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+          <div className="Icon" style={{width: 2.50, height: 20, border: '4px #1E1E1E solid'}}></div>
+        </div>
+        <div className="Varsh11" style={{color: 'black', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>varsh_11</div>
+        <img className="Image2" style={{width: 323, height: 297}} src="https://via.placeholder.com/323x297" />
+        <img className="Image2" style={{width: 2438, height: 1817}} src="https://via.placeholder.com/2438x1817" />
+        <div className="Bookmark" style={{width: 35, height: 35, paddingLeft: 7.29, paddingRight: 7.29, paddingTop: 4.38, paddingBottom: 4.38, justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+          <div className="Icon" style={{width: 20.42, height: 26.25, border: '4px #484747 solid'}}></div>
+        </div>
+        <div className="Heart" style={{width: 35, height: 35, paddingTop: 4.37, paddingBottom: 4.04, paddingLeft: 2.26, paddingRight: 2.26, justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+          <div className="Icon" style={{width: 30.48, height: 26.59, border: '4px #2A2A2A solid'}}></div>
+        </div>
+        <div className="MessageCircle" style={{width: 35, height: 35, paddingTop: 4.37, paddingBottom: 4.37, paddingLeft: 4.38, paddingRight: 4.37, justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+          <div className="Icon" style={{width: 26.25, height: 26.25, border: '4px #454444 solid'}}></div>
+        </div>
+        <div className="Send" style={{width: 35, height: 35, padding: 2.92, justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+          <div className="Icon" style={{width: 29.17, height: 29.17, border: '4px #484848 solid'}}></div>
+        </div>
+        <img className="Ellipse15" style={{width: 30, height: 30, borderRadius: 9999}} src="https://via.placeholder.com/30x30" />
+        <img className="Ellipse16" style={{width: 30, height: 30, borderRadius: 9999, border: '1px black solid'}} src="https://via.placeholder.com/30x30" />
+        <img className="Ellipse17" style={{width: 30, height: 30, borderRadius: 9999}} src="https://via.placeholder.com/30x30" />
+        <div className="LikedByAkshaya12AndOthers" style={{color: 'black', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>liked by  akshaya_12 and others</div>
+        <div className="PurposeOfLifeHappy" style={{color: 'black', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>purpose of life................happy</div>
+        <div className="ViewAll5Comments" style={{color: 'black', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>view all 5 comments</div>
+        <div className="MoreVertical" style={{width: 30, height: 30, paddingTop: 5, paddingBottom: 5, justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+          <div className="Icon" style={{width: 2.50, height: 20, border: '4px #1E1E1E solid'}}></div>
+        </div>
+        <img className="Ellipse18" style={{width: 40, height: 40, borderRadius: 9999}} src="https://via.placeholder.com/40x40" />
+        <div className="SanGeeth31" style={{color: 'black', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>san_geeth_31</div>
+        <img className="Image5" style={{width: 336.67, height: 300}} src="https://via.placeholder.com/337x300" />
+        <div className="Heart" style={{width: 35, height: 35, paddingTop: 4.37, paddingBottom: 4.04, paddingLeft: 2.26, paddingRight: 2.26, justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+          <div className="Icon" style={{width: 30.48, height: 26.59, border: '4px #2A2A2A solid'}}></div>
+        </div>
+        <div className="MessageCircle" style={{width: 35, height: 35, paddingTop: 4.37, paddingBottom: 4.37, paddingLeft: 4.38, paddingRight: 4.37, justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+          <div className="Icon" style={{width: 26.25, height: 26.25, border: '4px #454444 solid'}}></div>
+        </div>
+        <div className="Send" style={{width: 35, height: 35, padding: 2.92, justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+          <div className="Icon" style={{width: 29.17, height: 29.17, border: '4px #484848 solid'}}></div>
+        </div>
+        <div className="Bookmark" style={{width: 35, height: 35, paddingLeft: 7.29, paddingRight: 7.29, paddingTop: 4.38, paddingBottom: 4.38, justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+          <div className="Icon" style={{width: 20.42, height: 26.25, border: '4px #484747 solid'}}></div>
+        </div>
+        <img className="Ellipse21" style={{width: 30, height: 30, borderRadius: 9999}} src="https://via.placeholder.com/30x30" />
+        <img className="Ellipse19" style={{width: 30, height: 30, borderRadius: 9999}} src="https://via.placeholder.com/30x30" />
+        <img className="Ellipse20" style={{width: 30, height: 30, borderRadius: 9999}} src="https://via.placeholder.com/30x30" />
+        <div className="LikedBySathyaSaiAndOthers" style={{color: 'black', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>liked by  _sathya_sai and others</div>
+        <div className="Care" style={{color: 'black', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>care.....?</div>
+        <div className="ViewAll150Comments" style={{color: 'black', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>view all 150 comments</div>
+      </div>
+    </div>
+  </div>
+  <div className="Rectangle1" style={{width: 658, height: 116, left: 0.50, top: 94, position: 'absolute', background: '#FFFBFB'}}></div>
+  <div className="Frame5" style={{paddingTop: 11, paddingLeft: 1, left: 0, top: 84, position: 'absolute', justifyContent: 'flex-end', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Component1" style={{width: 658, height: 116, position: 'relative', flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start', display: 'flex'}}>
+      <img className="Ellipse23" style={{width: 80, height: 80, borderRadius: 9999, border: '4px #FC0909 solid'}} src="https://via.placeholder.com/80x80" />
+      <img className="Ellipse23" style={{width: 80, height: 80, borderRadius: 9999, border: '4px #FC0909 solid'}} src="https://via.placeholder.com/80x80" />
+      <img className="Ellipse23" style={{width: 80, height: 80, borderRadius: 9999, border: '4px #FC0909 solid'}} src="https://via.placeholder.com/80x80" />
+      <img className="Ellipse23" style={{width: 80, height: 80, borderRadius: 9999, border: '4px #FC0909 solid'}} src="https://via.placeholder.com/80x80" />
+      <img className="Ellipse23" style={{width: 80, height: 80, borderRadius: 9999, border: '4px #FC0909 solid'}} src="https://via.placeholder.com/80x80" />
+      <img className="Ellipse23" style={{width: 80, height: 80, borderRadius: 9999, border: '4px #FC0909 solid'}} src="https://via.placeholder.com/80x80" />
+      <img className="Ellipse23" style={{width: 80, height: 80, borderRadius: 9999, border: '4px #FC0909 solid'}} src="https://via.placeholder.com/80x80" />
+      <div className="YourStory" style={{color: '#140101', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>Your story</div>
+      <div className="Panda" style={{color: '#180202', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>panda</div>
+      <div className="Cat" style={{color: '#150202', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>Cat</div>
+      <div className="Panda" style={{color: '#120101', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>panda</div>
+      <div className="BlueStone" style={{color: '#110101', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>Blue stone</div>
+      <div className="Doreman" style={{color: '#0D0101', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>Doreman</div>
+      <div className="Vijay" style={{color: '#150101', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>Vijay</div>
+    </div>
+  </div>
+</div>
